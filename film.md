@@ -7,6 +7,5 @@ I've always been an avid lover of photography, albeit, I found that my artistic 
 
 
 <!-- Add your film photography images here -->
-![AhmedPic.jpg](images/AhmedPic.jpg) 
-![](images/background.jpg)
+![ahmed pic]({{ ahmedburooj.githum.io }}/images/AhmedPic.jpg)![](images/background.jpg)
 ![](./images/user.png)
