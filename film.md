@@ -7,4 +7,4 @@ I've always been an avid lover of photography, albeit, I found that my artistic 
 
 
 <!-- Add your film photography images here -->
-![Film Photography 1](images/AhmedPic.jpg?raw=true)
+![Film Photography 1](/assets/images/AhmedPic.jpg?raw=true)
