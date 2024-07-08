@@ -9,4 +9,4 @@ I've always been an avid lover of photography, albeit, I found that my artistic 
 <!-- Add your film photography images here -->
 ![hi](https://github.com/ahmedburooj/ahmedburooj.github.io/blob/9905a5c824205a2d3a627a39727c27c2e5062486/images/AhmedPic.jpg)
 ![](images/background.jpg)
-![](images/user.png)
+![](./images/user.png)
