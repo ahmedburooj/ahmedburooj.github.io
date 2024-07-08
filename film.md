@@ -7,5 +7,3 @@ I've always been an avid lover of photography, albeit, I found that my artistic 
 
 <!-- Add your film photography images here -->
 ![Film Photography 1](images/AhmedPic.jpg)
-![Film Photography 2](images/film-photography-2.jpg)
-![Film Photography 3](images/film-photography-3.jpg)
