@@ -5,6 +5,6 @@ I've always been an avid lover of photography, albeit, I found that my artistic 
 
 ### Gallery
 
-![](images/AhmedPic.jpg?raw=true) 
+
 <!-- Add your film photography images here -->
-![Film Photography 1](images/AhmedPic.jpg)
+![Film Photography 1](images/AhmedPic.jpg?raw=true)
